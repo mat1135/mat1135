@@ -1,6 +1,6 @@
 ## Hello! My name is Matheus 👋🏻
 
-Sou estudante de DS cursando o último ano. Estou sempre em busca de aprendizado 
+Sou estudante de DS, cursando o último ano. Estou sempre em busca de aprendizado para me aperfeiçoar cada vez mais na área.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
