@@ -1,5 +1,7 @@
 ## Hello! My name is Matheus 👋🏻
 
+Sou estudante de DS cursando o último ano. Estou sempre em busca de aprendizado 
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat1135&layout=compact&langs_count=7"/>
